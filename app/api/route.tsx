@@ -1,5 +1,5 @@
 import { Button, Frog } from "frog";
-import teamsData from "./equipes_ncaa.json";
+import teamsData from "@/public/equipes_ncaa.json";
 import { handle } from "frog/vercel";
 
 type MatchResult = {
